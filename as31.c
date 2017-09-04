@@ -10,7 +10,7 @@ for(i=o;a[i]!='null';i++)
 if(a[i]>'a'&&a[i]<'z')
 {
 count++;
-printf("%d",count);
 }
+  printf("%d",count);
 }
 
